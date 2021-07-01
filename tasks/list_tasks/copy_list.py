@@ -13,7 +13,6 @@
 
 from copy import copy
 
-
 department = {
     "name": "IT",
     "head": "Marina"
