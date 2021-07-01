@@ -9,8 +9,8 @@ False, если нет
 
 
 def is_subset(set_1: set, set_2: set) -> bool:
-    # TODO вставить код сюда
-    result = None
+    result = set_1.issubset(set_2)
+#   result = set_1 <= set_2
     return result
 
 
